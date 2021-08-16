@@ -1,0 +1,65 @@
+id_netflix;titulo;ano_lancamento;genero;produtora;id_amazon;titulo;ano_lancamento;genero;produtora
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";1;"Terror extremo";2018;terror;"Mares Filmes"
+7;Eli;2019;terror;"Paramount Players";1;"Terror extremo";2018;terror;"Mares Filmes"
+6;"A Baba";2017;terror;"Universal Studios";1;"Terror extremo";2018;terror;"Mares Filmes"
+5;Fuja;2020;terror;"Lions Gate Entertainment";1;"Terror extremo";2018;terror;"Mares Filmes"
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";1;"Terror extremo";2018;terror;"Mares Filmes"
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";1;"Terror extremo";2018;terror;"Mares Filmes"
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";1;"Terror extremo";2018;terror;"Mares Filmes"
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";1;"Terror extremo";2018;terror;"Mares Filmes"
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";2;"Terror no Navio";2014;terror;"A2 Filmes"
+7;Eli;2019;terror;"Paramount Players";2;"Terror no Navio";2014;terror;"A2 Filmes"
+6;"A Baba";2017;terror;"Universal Studios";2;"Terror no Navio";2014;terror;"A2 Filmes"
+5;Fuja;2020;terror;"Lions Gate Entertainment";2;"Terror no Navio";2014;terror;"A2 Filmes"
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";2;"Terror no Navio";2014;terror;"A2 Filmes"
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";2;"Terror no Navio";2014;terror;"A2 Filmes"
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";2;"Terror no Navio";2014;terror;"A2 Filmes"
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";2;"Terror no Navio";2014;terror;"A2 Filmes"
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";3;Piranha;1978;terror;"Dimension Films"
+7;Eli;2019;terror;"Paramount Players";3;Piranha;1978;terror;"Dimension Films"
+6;"A Baba";2017;terror;"Universal Studios";3;Piranha;1978;terror;"Dimension Films"
+5;Fuja;2020;terror;"Lions Gate Entertainment";3;Piranha;1978;terror;"Dimension Films"
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";3;Piranha;1978;terror;"Dimension Films"
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";3;Piranha;1978;terror;"Dimension Films"
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";3;Piranha;1978;terror;"Dimension Films"
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";3;Piranha;1978;terror;"Dimension Films"
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";4;Alucinacao;2001;terror;"Amres Filmes"
+7;Eli;2019;terror;"Paramount Players";4;Alucinacao;2001;terror;"Amres Filmes"
+6;"A Baba";2017;terror;"Universal Studios";4;Alucinacao;2001;terror;"Amres Filmes"
+5;Fuja;2020;terror;"Lions Gate Entertainment";4;Alucinacao;2001;terror;"Amres Filmes"
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";4;Alucinacao;2001;terror;"Amres Filmes"
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";4;Alucinacao;2001;terror;"Amres Filmes"
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";4;Alucinacao;2001;terror;"Amres Filmes"
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";4;Alucinacao;2001;terror;"Amres Filmes"
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+7;Eli;2019;terror;"Paramount Players";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+6;"A Baba";2017;terror;"Universal Studios";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+5;Fuja;2020;terror;"Lions Gate Entertainment";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";5;"Hotel da Morte";2011;terror;"A2 Filmes"
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";6;"Um Bom Homem";2008;terror;Sierra
+7;Eli;2019;terror;"Paramount Players";6;"Um Bom Homem";2008;terror;Sierra
+6;"A Baba";2017;terror;"Universal Studios";6;"Um Bom Homem";2008;terror;Sierra
+5;Fuja;2020;terror;"Lions Gate Entertainment";6;"Um Bom Homem";2008;terror;Sierra
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";6;"Um Bom Homem";2008;terror;Sierra
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";6;"Um Bom Homem";2008;terror;Sierra
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";6;"Um Bom Homem";2008;terror;Sierra
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";6;"Um Bom Homem";2008;terror;Sierra
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";7;REC;2007;terror;Filmax
+7;Eli;2019;terror;"Paramount Players";7;REC;2007;terror;Filmax
+6;"A Baba";2017;terror;"Universal Studios";7;REC;2007;terror;Filmax
+5;Fuja;2020;terror;"Lions Gate Entertainment";7;REC;2007;terror;Filmax
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";7;REC;2007;terror;Filmax
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";7;REC;2007;terror;Filmax
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";7;REC;2007;terror;Filmax
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";7;REC;2007;terror;Filmax
+8;"CAmpo do Medo";2019;terror;"Copperheart Entertainment";8;"REC 2";2009;terror;Filmax
+7;Eli;2019;terror;"Paramount Players";8;"REC 2";2009;terror;Filmax
+6;"A Baba";2017;terror;"Universal Studios";8;"REC 2";2009;terror;Filmax
+5;Fuja;2020;terror;"Lions Gate Entertainment";8;"REC 2";2009;terror;Filmax
+4;"Rua do Medo: 1666";2021;terror;"Chernin Entertainment";8;"REC 2";2009;terror;Filmax
+3;"Rua do Medo: 1978";2021;terror;"Chernin Entertainment";8;"REC 2";2009;terror;Filmax
+2;"Rua do Medo: 1994";2021;terror;"Chernin Entertainment";8;"REC 2";2009;terror;Filmax
+1;"Massacre da Serra Eletrica";1974;terror;"Platinum Dunes";8;"REC 2";2009;terror;Filmax
