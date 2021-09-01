@@ -19,20 +19,20 @@
 <h2 id="Project"> Projeto </h2>
 
 <p> 
-Material desenvolvido em atividades no curso de Administrador de Banco de Dados onde foi desenvolvido bancos de dados de modelo relacional com o <abbr title="Sistema gerenciador de Banco de Dados">SGBD</abbr> MySQL Workbench. 
+Material desenvolvido em atividades no curso de Administrador de Banco de Dados onde foi desenvolvido bancos de dados de modelo relacional com o SGBD (Sistema gerenciador de Banco de Dados) MySQL Workbench. 
 </p>
 
-Foi desenvolvido durante o curso modelo conceitual, modelo logico e o modelo físico onde treinamos comandos DML, DCL e DDL no SGBD MySQL Workbench e no terminal MySQL Comand Line usando boas pratícas como o processo de normalização de dados.
+Foi desenvolvido durante o curso modelo conceitual, modelo logico e o modelo físico onde treinamos comandos DML, DCL e DDL no SGBD MySQL Workbench e no terminal MySQL Comand Line usando boas práticas como o processo de normalização de dados.
 
 <br>
 
 Foi colocado em prática comandos:
 
-- <abbr title="Data Definition Language">DDL</abbr> - Linguagem de definição de dados: CRETAE, ALTER, DROP;
+- DDL (Data Definition Language) - Linguagem de definição de dados: CRETAE, ALTER, DROP;
   
-- <abbr title="Data Manipulation Language">DML</abbr> - Linguagem de manipulação de dados: INSERT, SELECT, UPDATE, DELETE;
+- DML (Data Manipulation Language) - Linguagem de manipulação de dados: INSERT, SELECT, UPDATE, DELETE;
   
-- <abbr title="Data Control Language">DCL</abbr> - Linguagem de controle de dados: GRANT, REVOKE.
+- DCL (Data Control Language) - Linguagem de controle de dados: GRANT, REVOKE.
 
 <br>
 
